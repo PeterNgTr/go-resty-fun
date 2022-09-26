@@ -7,7 +7,7 @@ This defines a struct LocationResponse with a single element Country. The json:"
 # Run tests
 
 ````
-Thanhs-MacBook-Pro:go-resty-fun tamara-thanh$ go test -v
+Thanhs-MacBook-Pro:go-resty-fun thanh$ go test -v
 === RUN   TestZippopotamUsSuite
 === RUN   TestZippopotamUsSuite/Test_GetUs90210_ContentTypeShouldEqualApplicationJson
 === RUN   TestZippopotamUsSuite/Test_GetUs90210_CountryShouldEqualUnitedStates
